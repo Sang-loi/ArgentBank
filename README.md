@@ -1,7 +1,5 @@
 # ArgentBank
 
-![ArgentBank Icon](./src/assets/images/argentBankLogo.webp)
-
 Projet 11 du parcours "Intégrateur Web" chez OpenClassrooms. 
 L'objectif de la mission consiste à implémenter le front-end d'une application bancaire en utilisant React.
 
@@ -102,7 +100,7 @@ Avery Moreau
 - You will need to have Node and `npm` installed locally on your machine.
 
 > [!WARNING]  
-> The [backend](https://github.com/Matthieu83600/ArgentBank-Backend) must also be installed in order to launch this project.
+> The [backend] must also be installed in order to launch this project.
 
 ## Project setup
 
